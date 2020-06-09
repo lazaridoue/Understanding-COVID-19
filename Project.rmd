@@ -4,3 +4,11 @@ author: "Eleni L."
 date: "June 8, 2020"
 output: html_document
 ---
+
+## Task gotten from Kaggle.com Competition.
+### Task Details
+<p> Can we predict the impact of various social interventions (including social distancing requirements, masks, school and business closures, opening of testing clinics, contact tracing, availability of serological testing, etc.) and public attitudes/sentiment on the spread of COVID-19 through populations?</p>
+
+<p> As an extension, can we estimate the impact if various measures were lifted at different time intervals? What is the expected impact on effective social distance? What is the impact on disease spread (Ro) and illness? </p> 
+
+<p> We are looking for insights into reliable predictors of the rate of spread of disease through a population, which do not need to be constrained to the specific factors outlined above. </p>
